@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/mysql/provinces.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/tp_tree.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/创建学员信息表.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/创建新闻表.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/完整性约束条件_主键.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/完整性约束条件_唯一字段.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/完整性约束条件_自增长字段.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/完整性约束条件_非空字段.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/完整性约束条件_默认值字段.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_内连接查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_分组二次筛选.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_分组查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_外连接查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_外键.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_子查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_插入数据.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_更新和删除数据.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_查询数据.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_查询条数.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_查询结果排序.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_正则表达式查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_联合查询.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_聚合函数.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据操作_运算符.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/数据表相关操作_修改主键和唯一键.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/类型测试_创建字符数据表.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/类型测试_创建日期类型.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/类型测试_创建集合数据类型.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/mysql/类型测试_测试枚举类型.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
